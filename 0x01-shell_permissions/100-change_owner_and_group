@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty:vincent chgrp school hello
+chown betty hello
